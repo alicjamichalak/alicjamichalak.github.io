@@ -24,6 +24,7 @@
     font-family: Roboto Mono;
     font-size: 13px;
     line-height: 24px;
+    margin-bottom: 24px;
     &__circle {
         display: block;
         width: 8px;
@@ -34,7 +35,7 @@
     }
     &__content {
         padding: 24px;
-        color: $consoleGrey4;
+        color: $consoleGrey5;
     }
     &__grid {
         display: grid;
@@ -44,11 +45,17 @@
     &__label {
         display: block;
         text-align: right;
+        font-weight: normal;
+        color: $consoleGrey4;
+    }
+    &__link {
+        color: $consoleTextLink;
     }
     &__title {
-        font-weight: normal;
+        font-weight: bold;
         font-size: 13px;
         line-height: 24px;
+        color: #ffffff;
     }
     &__window {
         height: 40px;

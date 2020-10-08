@@ -32,6 +32,8 @@ fetch('https://api.github.com/users/alicjamichalak/repos?sort=created&direction=
                 class="project__link" 
                 href="${homepage}" 
                 title="${name}"
+                target="_blank"
+                rel="noopener noreferrer"
                 >see here</a
             >&gt;
             </span>
@@ -43,6 +45,8 @@ fetch('https://api.github.com/users/alicjamichalak/repos?sort=created&direction=
                 class="project__link" 
                 href="${html_url}" 
                 title="${name} - code"
+                target="_blank"
+                rel="noopener noreferrer"
                 >source code</a
             >&gt;
             </span>

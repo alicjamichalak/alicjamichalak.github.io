@@ -1,12 +1,14 @@
-![cover](https://alicjamichalak.github.io/img/alicja.2e4dcec7.jpg)
+![cover](https://alicjamichalak.github.io/og.png)
 
-# Alicja Michalak's portfolio
+# Alicja Michalak - Junior Frontend Developer
 
-Website that allows to view my coding skills & sth about me
+My simple portfolio website
 
-## What's it for ?
+## TOOLS
 
-This portfolio is adressed to any recruter or a company who would like to see my Frontend Developer skills.
-
+- WTF Webpack starterkit
+- HTML + CSS + JS
+- GitHub API
+- CSS Grid
 
 

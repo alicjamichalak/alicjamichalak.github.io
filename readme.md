@@ -1,6 +1,6 @@
 ![cover](https://alicjamichalak.github.io/og.png)
 
-# Alicja Michalak - Junior Frontend Developer
+# Alicja Michalak - Frontend Developer
 
 My simple portfolio website
 

@@ -1,4 +1,4 @@
-![cover](https://alicjamichalak.github.io/og.png)
+
 
 # Alicja Michalak - Frontend Developer
 
